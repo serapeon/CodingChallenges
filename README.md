@@ -1,5 +1,7 @@
 # Coding Challenges
 
+### Challenges taken from CodeAcademy https://www.codecademy.com/code-challenges
+
 **Languages:** Java, Python | **Focus:** Algorithm optimisation, data structures, mathematical computation
 
 ### **Optimisation & Mathematical Algorithms**
