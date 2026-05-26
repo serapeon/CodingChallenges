@@ -1,0 +1,47 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# NetBeans build output
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# NetBeans private files (user-specific settings)
+**/nbproject/private/
+nbproject/Package-*.bash
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+.vscode/settings.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS generated files
+*.swp
+*.swo
